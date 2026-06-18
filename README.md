@@ -20,3 +20,4 @@ Each chapter folder contains notes and practice problems.
 
 ## Projects Built So Far
 - [Rock Paper Scissors](https://github.com/buildwithshashank/Rock-Paper-Scissors-Python)
+- - [Expense Tracker](https://github.com/buildwithshashank/Expense-Tracker-Python)
